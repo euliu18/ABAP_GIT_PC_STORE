@@ -9,7 +9,7 @@
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Data Element for created_by field</DDTEXT>
+    <DDTEXT>Created By</DDTEXT>
     <REPTEXT>Created By</REPTEXT>
     <SCRTEXT_S>Created By</SCRTEXT_S>
     <SCRTEXT_M>Created By</SCRTEXT_M>

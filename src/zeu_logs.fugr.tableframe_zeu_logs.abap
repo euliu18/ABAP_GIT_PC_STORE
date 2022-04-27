@@ -1,6 +1,6 @@
 *---------------------------------------------------------------------*
 *    program for:   TABLEFRAME_ZEU_LOGS
-*   generation date: 27.04.2022 at 12:21:11
+*   generation date: 27.04.2022 at 15:25:42
 *   view maintenance generator version: #001407#
 *---------------------------------------------------------------------*
 FUNCTION TABLEFRAME_ZEU_LOGS           .

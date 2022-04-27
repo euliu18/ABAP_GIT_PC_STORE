@@ -9,7 +9,7 @@
     <SCRLEN1>07</SCRLEN1>
     <SCRLEN2>07</SCRLEN2>
     <SCRLEN3>07</SCRLEN3>
-    <DDTEXT>Data element for Logs ID</DDTEXT>
+    <DDTEXT>Logs ID</DDTEXT>
     <REPTEXT>Logs ID</REPTEXT>
     <SCRTEXT_S>Logs ID</SCRTEXT_S>
     <SCRTEXT_M>Logs ID</SCRTEXT_M>

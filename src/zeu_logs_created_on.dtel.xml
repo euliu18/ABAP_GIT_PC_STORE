@@ -9,7 +9,7 @@
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Data element for Created_On field</DDTEXT>
+    <DDTEXT>Created On</DDTEXT>
     <REPTEXT>Created On</REPTEXT>
     <SCRTEXT_S>Created On</SCRTEXT_S>
     <SCRTEXT_M>Created On</SCRTEXT_M>
